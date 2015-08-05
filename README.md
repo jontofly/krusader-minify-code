@@ -22,7 +22,10 @@ That's it.
 ### NOTE
 Needs "cURL" installed to function.
 
-### CREDIT
+### CREDITS
 Thanks to
-* [Krusader Developers](http://www.krusader.org/.), [Krusader Wiki Page](https://en.wikipedia.org/wiki/Krusader) - Twin Panel [Orthodox file manager](https://en.wikipedia.org/wiki/Orthodox_file_manager) File Manager.
+* [Krusader Developers](http://www.krusader.org/.) - Twin Panel [Orthodox file manager](https://en.wikipedia.org/wiki/Orthodox_file_manager) File Manager.
+  * [Krusader Wiki Page](https://en.wikipedia.org/wiki/Krusader)
 * [Andrew Chilton AKA chilts](https://github.com/chilts) - Code Minify API.
+  * [CSS Minifier](http://cssminifier.com/)
+  * [Javascript Minifier](http://javascript-minifier.com/)
