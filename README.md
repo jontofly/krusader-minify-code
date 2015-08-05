@@ -24,5 +24,5 @@ Needs "cURL" installed to function.
 
 ### CREDIT
 Thanks to
-* [Krusader Developers](http://www.krusader.org/.) - Twin Panel [Orthodox file manager](https://en.wikipedia.org/wiki/Orthodox_file_manager) File Manager.
+* [Krusader Developers](http://www.krusader.org/.), [Krusader Wiki Page](https://en.wikipedia.org/wiki/Krusader) - Twin Panel [Orthodox file manager](https://en.wikipedia.org/wiki/Orthodox_file_manager) File Manager.
 * [Andrew Chilton AKA chilts](https://github.com/chilts) - Code Minify API.
