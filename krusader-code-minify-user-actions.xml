@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE KrusaderUserActions>
+<KrusaderUserActions>
+  <action name="Minify CSS">
+    <title>&amp;Minify a CSS file</title>
+    <tooltip>Minify a CSS file</tooltip>
+    <category>Code Handling</category>
+    <description>Minify code in files by using cURL to upload to a server that handles the files and outputs it to a new file with the name you choose for it.</description>
+    <command executionmode="embedded_terminal">curl -X POST -s --data-urlencode 'input@%aCurrent%' http://cssminifier.com/raw > %_Ask("New minified name:", %aCurrent%)%</command>
+  </action>
+  <action name="Minify JS">
+    <title>&amp;Minify a JS file</title>
+    <tooltip>Minify a JS file</tooltip>
+    <category>Code Handling</category>
+    <description>Minify code in files by using cURL to upload to a server that handles the files and outputs it to a new file with the name you choose for it.</description>
+    <command executionmode="embedded_terminal">curl -X POST -s --data-urlencode 'input@%aCurrent%' http://javascript-minifier.com/raw > %_Ask("New minified name:", %aCurrent%)%</command>
+  </action>
+</KrusaderUserActions>
