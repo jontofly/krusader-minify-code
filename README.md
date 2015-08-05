@@ -7,7 +7,7 @@ Easy, in Krusader file manager do (Either Option):
 * Option A
   * "Useractions" -> "Manage User Actions" -> "Import useractions" -> Choose the "krusader-code-minify-user-actions.xml" file.
 * Option B
-  * Embed the text from [This XML file](http://github.com) into yours.
+  * Embed the text from [This XML file](https://raw.githubusercontent.com/jontofly/krusader-minify-code/master/krusader-code-minify-user-actions.xml) into yours.
 * Option C
   * Manually create / edit a user action using these commands:
   * For CSS
