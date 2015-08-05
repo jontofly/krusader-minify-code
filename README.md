@@ -2,12 +2,14 @@
 User actions for Krusader file manager to minify JS and CSS files on-the-fly (With right mouse click)
 
 ## HOW TO USE
+First, download and save
+[Krusader user actions XML file](https://raw.githubusercontent.com/jontofly/krusader-minify-code/master/krusader-code-minify-user-actions.xml)
 
-Easy, in Krusader file manager do (Either Option):
+Then (Either Option):
 * Option A
-  * "Useractions" -> "Manage User Actions" -> "Import useractions" -> Choose the "krusader-code-minify-user-actions.xml" file.
+  * In Krusader's menu, "Useractions" -> "Manage User Actions" -> "Import useractions" -> Choose the "krusader-code-minify-user-actions.xml" file.
 * Option B
-  * Embed the text from [This XML file](https://raw.githubusercontent.com/jontofly/krusader-minify-code/master/krusader-code-minify-user-actions.xml) into yours.
+  * Embed the text from the XML file into your Krusader's one.
 * Option C
   * Manually create / edit a user action using these commands:
   * For CSS
